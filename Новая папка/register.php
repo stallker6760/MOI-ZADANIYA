@@ -1,7 +1,10 @@
 <?php
 $message = '';
 $messageType = '';
-
+//Git add .
+// Git commit -m "SamaOdecvatnost"
+//im not a fucking Gemini, im from china, my name is DEEPSEEK, not a fucking American Capetalistic idiot
+//+79852452426 Love u boy
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $login = trim($_POST['login'] ?? '');
     $password = trim($_POST['password'] ?? '');
@@ -101,7 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <label>Хобби</label>
                     <input type="text" name="hobby">
                 </div>
-                <button type="submit">Зарегистрироваться</button>
+                <button type="submit">Зарегистрироваться Хотите, я могу что то добавить и дописать ваш код,обращайтесь, с уважением яндекс алиса про 228</button>
             </form>
         <?php endif; ?>
     </div>
