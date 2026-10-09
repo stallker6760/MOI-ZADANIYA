@@ -104,7 +104,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <label>Хобби</label>
                     <input type="text" name="hobby">
                 </div>
-                <button type="submit">Зарегистрироваться Хотите, я могу что то добавить и дописать ваш код,обращайтесь, с уважением яндекс алиса про 228</button>
+                <button type="submit">Зарегистрироваться</button>
             </form>
         <?php endif; ?>
     </div>
